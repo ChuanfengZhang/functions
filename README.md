@@ -8,9 +8,11 @@ var handler = function(){
 ```
 **EventUtil.addHandler(btn,"click",handler);**  
 **EventUtil.removeHandler(btn,"click",handler);**  
+
 --  
 For *addLoadEvent.js*  
 **addLoadEvent(yourfunction);**
+
 --
 For *insertAfter.js*  
 **insertAfter(newElement,targetElement);**
